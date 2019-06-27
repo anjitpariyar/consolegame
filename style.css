@@ -1,0 +1,13 @@
+body{
+	padding: 20px;
+	background-image: url(https://cdn1-www.gamerevolution.com/assets/uploads/2019/05/One-Punch-Man-episode-19-e1558361436809.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+p{
+     height: 20px;
+	color: #000;
+	background-color: #fff;
+	margin: 5px;
+	font-size: 1rem;
+}
